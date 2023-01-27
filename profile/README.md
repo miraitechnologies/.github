@@ -8,5 +8,5 @@
 |---|---|
 | **Email** | [info@mirai-technologies.com](mailto:info@mirai-technologies.com) |
 | **Mobile** | +81-90-9051-1386<br/>+976-9580-0317 |
-| **Website** | [https://mirai-technologies.com](https://mirai-technoglogies.com) |
+| **Website** | [https://mirai-technologies.com](https://mirai-technologies.com) |
 | **Address** | 2F, Erkht center, 2nd khoroo, Chingeltei district, Ulaanbaatar, Mongolia |
